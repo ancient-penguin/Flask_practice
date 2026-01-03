@@ -1,2 +1,2 @@
-# Flask_practice
+# Hello
 It is for practice flask. 
