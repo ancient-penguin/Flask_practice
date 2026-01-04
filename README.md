@@ -1,6 +1,6 @@
 #Flask Memo API
-Flask와 SQLite를 사용하여 간단한 메모장 API를 개발
-회원가입, 로그인(JWT 인증) & CRUD 기능을 구현
+- Flask와 SQLite를 사용하여 간단한 메모장 API를 개발
+- 회원가입, 로그인(JWT 인증) & CRUD 기능을 구현
 
 #기능
 - 인증 : 회원가입, 로그인 (JWT 토큰 발급)
